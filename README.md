@@ -3,6 +3,7 @@ A python program to predict the class of given wine sample using the load_wine d
 
 
 Data Set Characteristics:
+
     :Number of Instances: 178 (50 in each of three classes)
     :Number of Attributes: 13 numeric, predictive attributes and the class
     :Attribute Information:
